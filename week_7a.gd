@@ -1,5 +1,5 @@
 extends Node2D
-# Hello from Bryan
+# Hello from StarTrek
 var size = 12
 
 @export var font:Font
