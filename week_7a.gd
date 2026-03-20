@@ -52,6 +52,9 @@ func _input(event: InputEvent) -> void:
 				play_chord(note + 7, minor, 2)
 				await get_tree().create_timer(0.5).timeout				
 		
+		
+		
+		
 			
 
 func _ready() -> void:
